@@ -1,3 +1,0 @@
-RR (Linux)
-opens the a terminal and runs a command to display
-the rick-roll in the opened terminal

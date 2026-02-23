@@ -1,4 +1,0 @@
-GUI ENTER
-DELAY 2000
-STRINGLN echo "you have been hacked"
-
